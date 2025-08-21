@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755749120 source:c:\git1\media aluno\media_aluno\main.c
+	<stdio.h>
+	<stdlib.h>
+
